@@ -1,0 +1,341 @@
+[
+  {
+    "id": "01_agibot_wiping_transfer_2x2",
+    "panels": [
+      {
+        "label": "Original | AgiBot",
+        "kind": "original",
+        "video": "assets/transfer/0-0.mp4",
+        "poster": "assets/transfer/0-0.jpg",
+        "fps": "5",
+        "sha256": "6a1e84990ec84a722219c8b8343d971919592bbf6d6076f20d25afac01033a8f"
+      },
+      {
+        "label": "Human hands | Same scene",
+        "kind": "generated",
+        "video": "assets/transfer/0-1.mp4",
+        "poster": "assets/transfer/0-1.png",
+        "fps": "5",
+        "sha256": "f179bb615dc7aa51232e67ff02d5176ca2b22d41cc24f8dad0702a797f558b95"
+      },
+      {
+        "label": "Galaxea R1 | Same scene",
+        "kind": "generated",
+        "video": "assets/transfer/0-2.mp4",
+        "poster": "assets/transfer/0-2.png",
+        "fps": "5",
+        "sha256": "bd74ca410c3265df82bce6f1e8874b48d6340232023505fb2316c36890ed5cea"
+      },
+      {
+        "label": "AgiBot | New textures, same layout",
+        "kind": "generated",
+        "video": "assets/transfer/0-3.mp4",
+        "poster": "assets/transfer/0-3.png",
+        "fps": "5",
+        "sha256": "5c749ed1836969b1dbf95a0e0e81216028b240f6324f7b4f060f9a0636216d63"
+      }
+    ]
+  },
+  {
+    "id": "02_agibot_tissue_transfer_2x2",
+    "panels": [
+      {
+        "label": "Original | AgiBot",
+        "kind": "original",
+        "video": "assets/transfer/1-0.mp4",
+        "poster": "assets/transfer/1-0.jpg",
+        "fps": "5",
+        "sha256": "0dc4462df7476ae84490c7be489355f9f2fe689b25b5125a79024ad820af185d"
+      },
+      {
+        "label": "Human hands | Same scene",
+        "kind": "generated",
+        "video": "assets/transfer/1-1.mp4",
+        "poster": "assets/transfer/1-1.png",
+        "fps": "5",
+        "sha256": "a32c17b973ad40b35dcd8c57a14b5041a28076b7901e0affc7ade0d696a4cf5a"
+      },
+      {
+        "label": "Galaxea R1 | Same scene",
+        "kind": "generated",
+        "video": "assets/transfer/1-2.mp4",
+        "poster": "assets/transfer/1-2.png",
+        "fps": "5",
+        "sha256": "0b34756788c176c1ac69ae5e24b4bd4c864fec8fb9c91f2abe983f6917a4d6c6"
+      },
+      {
+        "label": "AgiBot | New textures, same layout",
+        "kind": "generated",
+        "video": "assets/transfer/1-3.mp4",
+        "poster": "assets/transfer/1-3.png",
+        "fps": "5",
+        "sha256": "b743eea4f864963cc111719d820497a8771d90f6df67428e4f43de40bc7c5bf9"
+      }
+    ]
+  },
+  {
+    "id": "03_agibot_wiping_three_scenes_2x2",
+    "panels": [
+      {
+        "label": "Original | AgiBot",
+        "kind": "original",
+        "video": "assets/transfer/2-0.mp4",
+        "poster": "assets/transfer/2-0.jpg",
+        "fps": "5",
+        "sha256": "6a1e84990ec84a722219c8b8343d971919592bbf6d6076f20d25afac01033a8f"
+      },
+      {
+        "label": "New scene | Dining table",
+        "kind": "generated",
+        "video": "assets/transfer/2-1.mp4",
+        "poster": "assets/transfer/2-1.png",
+        "fps": "5",
+        "sha256": "02e188769ca9b2b8b4b2603e77c4d7dc6129cc2adb94822ae02e6997a9f59a29"
+      },
+      {
+        "label": "New scene | Flowerbed rim",
+        "kind": "generated",
+        "video": "assets/transfer/2-2.mp4",
+        "poster": "assets/transfer/2-2.png",
+        "fps": "5",
+        "sha256": "67dcb98d36e6da5ebbb0862f5497ae0b94d80588adf7156b8e6ac345e4bac21d"
+      },
+      {
+        "label": "New scene | Bathroom vanity",
+        "kind": "generated",
+        "video": "assets/transfer/2-3.mp4",
+        "poster": "assets/transfer/2-3.png",
+        "fps": "5",
+        "sha256": "39a1470f273e7797296e44ad1a3b5df5ce60b34dd6c17bed91fcc134340da6b3"
+      }
+    ]
+  },
+  {
+    "id": "04_sim_to_real_toast_and_stacking_2x2",
+    "panels": [
+      {
+        "label": "RoboDojo | Original simulation",
+        "kind": "original",
+        "video": "assets/transfer/3-0.mp4",
+        "poster": "assets/transfer/3-0.jpg",
+        "fps": "8",
+        "sha256": "11696ba1d85f8ce24aa11a022568baa48c2b605a535900240a169aca27f2e400"
+      },
+      {
+        "label": "RoboDojo | Real breakfast scene",
+        "kind": "generated",
+        "video": "assets/transfer/3-1.mp4",
+        "poster": "assets/transfer/3-1.png",
+        "fps": "8",
+        "sha256": "6154cc13f373697c70dd1e47c865fdbedd819f7f065791db920d47be2abbfa83"
+      },
+      {
+        "label": "RoboTwin | Original simulation",
+        "kind": "original",
+        "video": "assets/transfer/3-2.mp4",
+        "poster": "assets/transfer/3-2.jpg",
+        "fps": "15/2",
+        "sha256": "64bc4299c59f9ff6399f4ac5ba6addebc309094d8f953287b4f5d3cba3fcff4e"
+      },
+      {
+        "label": "RoboTwin | Real scene, soap boxes",
+        "kind": "generated",
+        "video": "assets/transfer/3-3.mp4",
+        "poster": "assets/transfer/3-3.png",
+        "fps": "15/2",
+        "sha256": "7f751348648ba40046b20b0692caa87a24acffd3d4dce67907a7c97ee6b85d12"
+      }
+    ]
+  },
+  {
+    "id": "05_human_to_shadow_bottle_scenes_2x2",
+    "panels": [
+      {
+        "label": "Original | Human hand",
+        "kind": "original",
+        "video": "assets/transfer/4-0.mp4",
+        "poster": "assets/transfer/4-0.jpg",
+        "fps": "32/3",
+        "sha256": "7c3a0a505b8eafad5c92739fc927111d51ae1ed6d9de39fd6a06588860d7fd83"
+      },
+      {
+        "label": "Shadow | Same scene",
+        "kind": "generated",
+        "video": "assets/transfer/4-1.mp4",
+        "poster": "assets/transfer/4-1.png",
+        "fps": "32/3",
+        "sha256": "ebe0219c75a70c2d016ffe51df118f775fc1f6a333d25957e9b5728fc196fb37"
+      },
+      {
+        "label": "Shadow | Conservative scene",
+        "kind": "generated",
+        "video": "assets/transfer/4-2.mp4",
+        "poster": "assets/transfer/4-2.png",
+        "fps": "32/3",
+        "sha256": "7288c7b93771a82e007dcecb20c4eef57c45c5bc6491e83c876f58de73b6eed9"
+      },
+      {
+        "label": "Shadow | Outdoor scene",
+        "kind": "generated",
+        "video": "assets/transfer/4-3.mp4",
+        "poster": "assets/transfer/4-3.png",
+        "fps": "32/3",
+        "sha256": "75956bb8c456102205f3fdb1e84ea0b2b29bb80cb02f49515debc84c7bdfad8d"
+      }
+    ]
+  },
+  {
+    "id": "06_agibot_tissue_more",
+    "motion": "tissue",
+    "panels": [
+      {
+        "label": "AgiBot | Kitchen stone counter",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T5_tissue_pick-0.mp4",
+        "poster": "assets/transfer/r2h/T5_tissue_pick-0.jpg",
+        "fps": "5",
+        "sha256": "9c8b2636ac8e5b680737ec408f8d63f7ee6d6fdc5fa34518c55c638ac62b5a3b",
+        "short": "Kitchen counter",
+        "source_file": "02_background_tissue_kitchen0_s27002_79af6fee.mp4"
+      },
+      {
+        "label": "Galaxea R1 | New scene",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T5_tissue_pick-1.mp4",
+        "poster": "assets/transfer/r2h/T5_tissue_pick-1.jpg",
+        "fps": "5",
+        "sha256": "295756d4684431a7831f8cb1128e6e222dbcd151d7a287bbefdab3f202c0af74",
+        "short": "Galaxea R1, new scene",
+        "source_file": "03_both_galaxea_r1_bg_v14_s27007_75bf13b3.mp4"
+      },
+      {
+        "label": "Human hand | Booth table",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T5_tissue_pick-2.mp4",
+        "poster": "assets/transfer/r2h/T5_tissue_pick-2.jpg",
+        "fps": "5",
+        "sha256": "d86598310f92c81690fd1260ef734be4111afd3feb4e0cb56b97452aa3d066c0",
+        "short": "Human hand, booth",
+        "source_file": "04_human_emb18_hand_booth0_s27002_ae0ab3c8.mp4"
+      },
+      {
+        "label": "AgiBot | Oak dining table",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T5_tissue_pick-3.mp4",
+        "poster": "assets/transfer/r2h/T5_tissue_pick-3.jpg",
+        "fps": "5",
+        "sha256": "dadac8547c95b7c8f2ecf8073e7c55deed1ffc6d9a4858539a5e37f1e316e633",
+        "short": "Oak dining table",
+        "source_file": "05_background_tissue_dining0_s27003_6afdb585.mp4"
+      }
+    ]
+  },
+  {
+    "id": "07_human_bottle_more",
+    "motion": "bottle",
+    "panels": [
+      {
+        "label": "Allegro | Same scene",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T1_bottle_lift-0.mp4",
+        "poster": "assets/transfer/r2h/T1_bottle_lift-0.jpg",
+        "fps": "32/3",
+        "sha256": "227fef4f4ff28a43f3f44325794e99402f567874823b3efcdeb62feaf854046a",
+        "short": "Allegro hand",
+        "source_file": "03_embodiment_gapfill_bottle_allegro9_s27001_431b2686.mp4"
+      },
+      {
+        "label": "Shadow | Kitchen counter",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T1_bottle_lift-1.mp4",
+        "poster": "assets/transfer/r2h/T1_bottle_lift-1.jpg",
+        "fps": "32/3",
+        "sha256": "f7b18c3d195c1c5bc1e6aa70b7ad2f7a06cb1250dd37d54c5ed1b54722a63cf1",
+        "short": "Shadow, kitchen",
+        "source_file": "04_both_gapfill_bottle_kitchen9_s27001_a9f55a59.mp4"
+      },
+      {
+        "label": "Shadow | Stock cart",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T1_bottle_lift-2.mp4",
+        "poster": "assets/transfer/r2h/T1_bottle_lift-2.jpg",
+        "fps": "32/3",
+        "sha256": "25eab2e0db7aeb5191147e0e52ae94e5ec87e4a6792ba11e4b98bab6d494610b",
+        "short": "Shadow, stock cart",
+        "source_file": "05_both_gapfill_bottle_stockroom9_s27001_b7dae4f5.mp4"
+      }
+    ]
+  },
+  {
+    "id": "08_robotwin_stack_more",
+    "motion": "stack",
+    "panels": [
+      {
+        "label": "RoboTwin | Wooden blocks",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T3_stack_blocks-0.mp4",
+        "poster": "assets/transfer/r2h/T3_stack_blocks-0.jpg",
+        "fps": "15/2",
+        "sha256": "eaa964b1d6eafa8b03a8288b485394d2664c7e6a95772afb149fd3a74d4b6431",
+        "short": "Wooden blocks",
+        "source_file": "02_background_fill5_objects_blocks0_s27003_b7e58a3a.mp4"
+      },
+      {
+        "label": "RoboTwin | Outdoor teak table",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T3_stack_blocks-1.mp4",
+        "poster": "assets/transfer/r2h/T3_stack_blocks-1.jpg",
+        "fps": "15/2",
+        "sha256": "ea2b7e3c932be7fdeb335d2e832fa7b8b12ba465ff8072194e91c1d5e4bfdbe9",
+        "short": "Outdoor teak table",
+        "source_file": "03_background_outdoor_teak_v34_s27003_b08cec46.mp4"
+      },
+      {
+        "label": "RoboTwin | Mint workbench",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T3_stack_blocks-2.mp4",
+        "poster": "assets/transfer/r2h/T3_stack_blocks-2.jpg",
+        "fps": "15/2",
+        "sha256": "5b18c32c2de82f32799229cb4152a79a3c5d289ab661d1071648e39c92244766",
+        "short": "Mint workbench",
+        "source_file": "04_style_same_arm_mint_workbench_v24_s27003_0b060bd2.mp4"
+      }
+    ]
+  },
+  {
+    "id": "09_robodojo_toast_more",
+    "motion": "toast",
+    "panels": [
+      {
+        "label": "RoboDojo | White wood table",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T4_toast_insert-0.mp4",
+        "poster": "assets/transfer/r2h/T4_toast_insert-0.jpg",
+        "fps": "8",
+        "sha256": "c0d789673c2e0c7cbea82b696f7d79e3eb3b645592db1e0622e2fa46860e489a",
+        "short": "White wood table",
+        "source_file": "01_style_fill5_toast_white0_s27002_4ca2d19e.mp4"
+      },
+      {
+        "label": "RoboDojo | Steel counter",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T4_toast_insert-1.mp4",
+        "poster": "assets/transfer/r2h/T4_toast_insert-1.jpg",
+        "fps": "8",
+        "sha256": "09faaae123030e5955b3f7bbfa294f192f74c6ccf1bc212d5b8eea37b6fe8626",
+        "short": "Steel counter",
+        "source_file": "02_background_fill5_toast_steel0_s27001_f608929a.mp4"
+      },
+      {
+        "label": "RoboDojo | Charcoal stone",
+        "kind": "generated",
+        "video": "assets/transfer/r2h/T4_toast_insert-2.mp4",
+        "poster": "assets/transfer/r2h/T4_toast_insert-2.jpg",
+        "fps": "8",
+        "sha256": "02ed068b48f19d3cd0cb07af68d057ca5aeedb60679884776c48a3ed02541e43",
+        "short": "Charcoal stone",
+        "source_file": "03_background_fill5_toast_charcoal0_s27001_bfa3cad6.mp4"
+      }
+    ]
+  }
+]
