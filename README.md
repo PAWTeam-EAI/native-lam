@@ -2,7 +2,7 @@
 
 # World Models as Native Latent Action Models
 
-[Qinyue Li](https://www.linkedin.com/in/dienachtderwelt/)<sup>1*</sup>, Weijie Qiao<sup>1,2*</sup>, [Qingyi Tao](https://truetqy.github.io/)<sup>1*†</sup>, [Zerui Gong](https://scholar.google.com/citations?user=sjiwhzcAAAAJ)<sup>1</sup>, [Zhe Yang](https://savannah-yz.github.io/)<sup>2</sup>, [Quanzhou Li](https://quanzhou-li.github.io/)<sup>2</sup>, [Taolin Zhang](https://taolinzhang.github.io/)<sup>2</sup>, Jinglin He<sup>1</sup>, [Zhonghua Wu](https://wu-zhonghua.github.io/)<sup>1</sup>, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)<sup>2,3</sup>
+[Qinyue Li](https://www.linkedin.com/in/dienachtderwelt/)<sup>1*</sup>, Weijie Qiao<sup>1,2*</sup>, [Qingyi Tao](https://truetqy.github.io/)<sup>1*†</sup>, [Zerui Gong](https://ry3ng.github.io/)<sup>1</sup>, [Zhe Yang](https://savannah-yz.github.io/)<sup>2</sup>, [Quanzhou Li](https://quanzhou-li.github.io/)<sup>2</sup>, [Taolin Zhang](https://taolinzhang.github.io/)<sup>2</sup>, Jinglin He<sup>1</sup>, [Zhonghua Wu](https://wu-zhonghua.github.io/)<sup>1</sup>, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)<sup>2,3</sup>
 
 <sup>1</sup>SenseTime Research, Singapore &nbsp;&nbsp; <sup>2</sup>S-Lab, Nanyang Technological University &nbsp;&nbsp; <sup>3</sup>ACE Robotics
 
